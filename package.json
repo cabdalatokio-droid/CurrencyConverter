@@ -1,8 +1,20 @@
 {
   "name": "converter",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "A responsive currency converter built with **React** and **Vite**. The app allows users to enter an amount, select a source currency and a target currency, and see the converted amount using exchange-rate data fetched from an external API.",
+  "homepage": "https://github.com/cabdalatokio-droid/CurrencyConverter#readme",
+  "bugs": {
+    "url": "https://github.com/cabdalatokio-droid/CurrencyConverter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabdalatokio-droid/CurrencyConverter.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
