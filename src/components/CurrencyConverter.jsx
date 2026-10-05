@@ -82,7 +82,7 @@ const converted =
           </select>
         </div>
 
-        {/* Result Area */}
+        {/* Result */}
         <div className='mt-4 p-4 bg-[#2a2a45] rounded-lg text-center'>
           <span className='text-xl font-medium text-gray-300'>Converted Amount: </span>
           <span className='text-2xl font-bold text-green-400'>{converted}{to}</span>
